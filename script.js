@@ -53,7 +53,7 @@
 })();
 */
 const messages = [
-    "Are you sure?",
+    "Chahat, Are you sure?",
     "Really sure??",
     "Are you positive?",
     "Pookie please...",
@@ -78,4 +78,5 @@ function handleNoClick() {
 
 function handleYesClick() {
     window.location.href = "yes_page.html";
+
 }
