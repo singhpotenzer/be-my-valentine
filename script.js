@@ -54,14 +54,14 @@
 */
 const messages = [
     "Chahat, Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
+    "Bachaaa, Really sure??",
+    "Heer, Are you positive?",
+    "Rasmalai please...",
+    "Harleen, Just think about it!",
+    "Gundii, If you say no, I will be really sad...",
+    "Chahu, I will be very sad...",
+    "Maan ja na, mishti ki mummy...",
+    "Ok Mishti ki mummy, I will stop asking...",
     "Just kidding, say yes please! ❤️"
 ];
 
@@ -80,3 +80,4 @@ function handleYesClick() {
     window.location.href = "yes_page.html";
 
 }
+
